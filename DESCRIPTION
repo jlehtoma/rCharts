@@ -13,6 +13,7 @@ Maintainer: Ramnath Vaidyanathan <ramnath.vaidya@gmail.com>
 Description: Create interactive visualizations with a plotting interface
     familiar to R users using the Polycharts javascript library
 Imports:
+    base64enc,
     plyr,
     lattice,
     RCurl,
